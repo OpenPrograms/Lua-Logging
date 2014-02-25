@@ -12,6 +12,7 @@
 -------------------------------------------------------------------------------
 
 local _tostring = tostring
+local format = string.format
 
 local logging = {
 
